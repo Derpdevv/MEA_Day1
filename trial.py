@@ -1,6 +1,6 @@
 def multiplication_or_sum(num1, num2):
     #calculate produce of two numbers
-    prodct = num1 * num2
+    product = num1 * num2
     # check if product is less than 1000
     if product <= 1000:
         return product
